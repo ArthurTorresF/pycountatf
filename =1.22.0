@@ -1,0 +1,20 @@
+Using version ^2.0.0 for numpy
+
+Updating dependencies
+Resolving dependencies...
+
+Package operations: 0 installs, 0 updates, 0 removals, 13 skipped
+
+  - Installing contourpy (1.2.1): Skipped for the following reason: Already installed
+  - Installing cycler (0.12.1): Skipped for the following reason: Already installed
+  - Installing fonttools (4.53.1): Skipped for the following reason: Already installed
+  - Installing importlib-resources (6.4.0): Skipped for the following reason: Already installed
+  - Installing kiwisolver (1.4.5): Skipped for the following reason: Already installed
+  - Installing numpy (2.0.0): Skipped for the following reason: Already installed
+  - Installing packaging (24.1): Skipped for the following reason: Already installed
+  - Installing matplotlib (3.9.1): Skipped for the following reason: Already installed
+  - Installing pyparsing (3.1.2): Skipped for the following reason: Already installed
+  - Installing six (1.16.0): Skipped for the following reason: Already installed
+  - Installing zipp (3.19.2): Skipped for the following reason: Already installed
+  - Installing pillow (10.4.0): Skipped for the following reason: Already installed
+  - Installing python-dateutil (2.9.0.post0): Skipped for the following reason: Already installed
